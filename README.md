@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthan1304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthan1304/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/keerthan1304/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/keerthan1304/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/keerthan1304/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/keerthan1304/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
