@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/keerthan1304/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/keerthan1304/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/keerthan1304/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/keerthan1304/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/keerthan1304/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
