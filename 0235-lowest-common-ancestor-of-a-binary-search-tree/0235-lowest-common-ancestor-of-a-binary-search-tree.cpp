@@ -1,10 +1,10 @@
 /**
  *Definition for a binary tree node.
  *struct TreeNode {
- *   int val;
- *   TreeNode * left;
- *   TreeNode * right;
- *   TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *  int val;
+ *  TreeNode * left;
+ *  TreeNode * right;
+ *  TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  *};
  */
 
@@ -25,6 +25,9 @@ class Solution
         }
     TreeNode* lowestCommonAncestor(TreeNode *root, TreeNode *p, TreeNode *q)
     {
+        ios::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);
         if (root->left == NULL || root->right == NULL) return root;
         vector<int> ans1;
         vector<int> ans2;
