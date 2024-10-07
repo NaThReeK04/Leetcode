@@ -1,4 +1,6 @@
-int minLength(string s) {
+class Solution {
+public:
+    int minLength(string s) {
     stack<int> stk;
     for(auto c: s){
         if(c == 'B' && stk.size() && stk.top() == 'A') stk.pop();
@@ -7,3 +9,4 @@ int minLength(string s) {
     }
     return stk.size();
 }
+};
