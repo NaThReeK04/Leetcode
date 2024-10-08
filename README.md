@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthan1304/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/keerthan1304/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthan1304/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthan1304/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1923-sentence-similarity-iii](https://github.com/keerthan1304/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/keerthan1304/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/keerthan1304/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/keerthan1304/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthan1304/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthan1304/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keerthan1304/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/keerthan1304/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
