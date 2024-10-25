@@ -6,9 +6,6 @@ class Solution
             vector<string> ans;
             unordered_map<string, int> mpp;
             sort(folder.begin(),folder.end());
-            for(int i=0;i<folder.size();i++){
-                cout<<folder[i]<<"  ";
-            }
             int n = folder.size();  
             for (int i = 0; i < n; i++)
             {
