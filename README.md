@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/keerthan1304/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/keerthan1304/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keerthan1304/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/keerthan1304/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/keerthan1304/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search Tree
 |  |
 | ------- |
