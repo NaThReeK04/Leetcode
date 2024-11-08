@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthan1304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/keerthan1304/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthan1304/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keerthan1304/Leetcode/tree/master/0733-flood-fill) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthan1304/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1923-sentence-similarity-iii](https://github.com/keerthan1304/Leetcode/tree/master/1923-sentence-similarity-iii) |
