@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/keerthan1304/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/keerthan1304/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/keerthan1304/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/keerthan1304/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/keerthan1304/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/keerthan1304/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keerthan1304/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/keerthan1304/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/keerthan1304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/keerthan1304/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/keerthan1304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
 |  |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/keerthan1304/Leetcode/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
