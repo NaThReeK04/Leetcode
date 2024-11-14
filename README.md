@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/keerthan1304/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthan1304/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/keerthan1304/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/keerthan1304/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/keerthan1304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/keerthan1304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/keerthan1304/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/keerthan1304/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/keerthan1304/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/keerthan1304/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/keerthan1304/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/keerthan1304/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
