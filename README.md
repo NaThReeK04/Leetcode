@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/keerthan1304/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/keerthan1304/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/keerthan1304/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthan1304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/keerthan1304/Leetcode/tree/master/0130-surrounded-regions) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/keerthan1304/Leetcode/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
