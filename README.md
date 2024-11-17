@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/keerthan1304/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/keerthan1304/Leetcode/tree/master/1013-fibonacci-number) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keerthan1304/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/keerthan1304/Leetcode/tree/master/1013-fibonacci-number) |
@@ -421,5 +423,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/keerthan1304/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
