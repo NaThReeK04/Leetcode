@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/keerthan1304/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/keerthan1304/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/keerthan1304/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/keerthan1304/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/keerthan1304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/keerthan1304/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
