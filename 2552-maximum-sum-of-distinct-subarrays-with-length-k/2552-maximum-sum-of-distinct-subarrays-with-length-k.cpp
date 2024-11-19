@@ -10,12 +10,7 @@ public:
             mpp[nums[i]]++;
         }
         bool one=true;
-        for(auto i:mpp){
-            if(i.second>1){
-                one=false;
-                break;
-            }
-        }
+        if(mpp.size()!=k)one=false;
         if(one){
             ans=max(ans,windowsize);
         }
