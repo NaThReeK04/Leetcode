@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keerthan1304/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keerthan1304/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/keerthan1304/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3189-find-champion-ii](https://github.com/keerthan1304/Leetcode/tree/master/3189-find-champion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
