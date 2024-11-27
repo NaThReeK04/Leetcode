@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthan1304/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/keerthan1304/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/keerthan1304/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keerthan1304/Leetcode/tree/master/0733-flood-fill) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/keerthan1304/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/keerthan1304/Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/keerthan1304/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keerthan1304/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/keerthan1304/Leetcode/tree/master/0967-minimum-falling-path-sum) |
