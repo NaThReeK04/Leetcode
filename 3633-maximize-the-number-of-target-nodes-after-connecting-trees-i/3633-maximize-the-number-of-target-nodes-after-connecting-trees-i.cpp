@@ -1,8 +1,6 @@
 class Solution {
 public:
     int bfs(int idx, int n, vector<vector<int>>& adj, int limit) {
-        if (limit < 0) return 1; 
-        
         vector<int> vis(n + 1, 0);
         queue<int> q;
         q.push(idx);
