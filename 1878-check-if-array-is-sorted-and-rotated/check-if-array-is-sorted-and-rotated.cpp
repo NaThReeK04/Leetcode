@@ -1,20 +1,26 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        vector<int>original=nums;
-        sort(original.begin(),original.end());
+        vector<int>nums1(nums);
+        vector<int>dummy;
+        sort(nums1.begin(),nums1.end());
+        int idx=-1;
         int n=nums.size();
-        int shift=0;
-        int i=1;
-        while(i<n &&nums[i]>=nums[i-1]){
-            i++;
-        }
-        shift=n-i;
-        for(int j=0;j<n;j++){
-            if(nums[j]!=original[(j+shift)%n]){
-                return false;
+        for(int i=0;i<n-1;i++){
+            if(nums[i]>nums[i+1]){
+                idx=i;
+                break;
             }
         }
-        return true;
+        if(idx==-1)return true;
+        for(int i=idx+1;i<n;i++){
+            dummy.push_back(nums[i]);
+        }
+        for(int i=0;i<=idx;i++){
+            dummy.push_back(nums[i]);
+        }
+        if(dummy==nums1)return true;
+        return false;
+
     }
 };
