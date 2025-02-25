@@ -1,10 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans=0;
+        int xor1=0;
         for(int i=0;i<nums.size();i++){
-            ans^=nums[i];
+            xor1^=nums[i];
         }
-        return ans;
+        return xor1;
     }
 };
