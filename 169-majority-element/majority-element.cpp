@@ -1,24 +1,36 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int ele = 0, count = 0;
+        int ele;
+        int count = 0;
 
-        // First pass: Find the majority candidate
-        for (int num : nums) {
+        // Step 1: Find the candidate
+        for (int i = 0; i < nums.size(); i++) {
             if (count == 0) {
-                ele = num;
+                ele = nums[i];  // Select new candidate when count is zero
+                count = 1;
+            } 
+            else if (nums[i] == ele) {
+                count++;  // Increase count if same as candidate
+            } 
+            else {
+                count--;  // Decrease count if different from candidate
             }
-            count += (num == ele) ? 1 : -1;
         }
 
-        // Second pass: Verify the candidate (though not needed if guaranteed)
+        // Step 2: Verify the candidate
         int cnt = 0;
-        for (int num : nums) {
-            if (num == ele) {
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == ele) {
                 cnt++;
             }
         }
 
-        return cnt > nums.size() / 2 ? ele : -1;
+        // If candidate occurs more than half the time, return it, otherwise return -1
+        if (cnt > (nums.size() / 2)) {
+            return ele;
+        }
+        
+        return -1;
     }
 };
