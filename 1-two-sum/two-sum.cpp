@@ -7,12 +7,11 @@ public:
             mpp[nums[i]]=i;
         }
         for(int i=0;i<n;i++){
-            int s=target-nums[i];
-            if(mpp.find(s)!=mpp.end()&&mpp[s]!=i){
-                return {i,mpp[s]};
+            int num=target-nums[i];
+            if(mpp.find(num)!=mpp.end()&&i!=mpp[num]){
+                return {i,mpp[num]};
             }
         }
         return {-1,-1};
-        
     }
 };
