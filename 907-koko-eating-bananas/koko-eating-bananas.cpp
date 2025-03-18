@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //use type cast (double) using a ceil function
+    //always store the solution element if conditions 
     long long  check(int val,vector<int>&piles){
         long long  sum=0;
         for(int i=0;i<piles.size();i++){
