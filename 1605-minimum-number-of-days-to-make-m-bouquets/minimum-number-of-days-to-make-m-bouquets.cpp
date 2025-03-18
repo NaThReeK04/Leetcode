@@ -19,7 +19,7 @@ public:
         if (totalFlowers > bloomDay.size()) return -1;
         int l=*min_element(bloomDay.begin(),bloomDay.end());
         int r=*max_element(bloomDay.begin(),bloomDay.end());
-
+        //always analyse the while loop condition when to stop
         while(l<r){
             int mid=(l+r)/2;
             int sum=check(mid,bloomDay,k);
