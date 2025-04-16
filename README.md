@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NaThReeK04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NaThReeK04/Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthan1304/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NaThReeK04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NaThReeK04/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/keerthan1304/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NaThReeK04/Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/keerthan1304/Leetcode/tree/master/0812-rotate-string) |
