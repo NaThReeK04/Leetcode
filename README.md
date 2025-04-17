@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/keerthan1304/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/keerthan1304/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/keerthan1304/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthan1304/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/keerthan1304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/keerthan1304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
