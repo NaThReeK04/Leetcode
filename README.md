@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keerthan1304/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/keerthan1304/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/keerthan1304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/keerthan1304/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/keerthan1304/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthan1304/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keerthan1304/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/keerthan1304/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -545,4 +547,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/keerthan1304/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
