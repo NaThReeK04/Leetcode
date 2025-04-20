@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keerthan1304/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/keerthan1304/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NaThReeK04/Leetcode/tree/master/0817-design-hashmap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/keerthan1304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthan1304/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NaThReeK04/Leetcode/tree/master/0817-design-hashmap) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keerthan1304/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/keerthan1304/Leetcode/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keerthan1304/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/keerthan1304/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1304-longest-happy-string](https://github.com/keerthan1304/Leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/keerthan1304/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/keerthan1304/Leetcode/tree/master/2089-maximum-matrix-sum) |
