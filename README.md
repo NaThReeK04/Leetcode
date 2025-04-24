@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/keerthan1304/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/keerthan1304/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/NaThReeK04/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/keerthan1304/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/keerthan1304/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/keerthan1304/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/keerthan1304/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NaThReeK04/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/keerthan1304/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/keerthan1304/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
