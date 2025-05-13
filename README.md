@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/keerthan1304/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/keerthan1304/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NaThReeK04/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaThReeK04/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/keerthan1304/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/keerthan1304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NaThReeK04/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/keerthan1304/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/keerthan1304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/keerthan1304/Leetcode/tree/master/3451-string-compression-iii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NaThReeK04/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NaThReeK04/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NaThReeK04/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/keerthan1304/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NaThReeK04/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NaThReeK04/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NaThReeK04/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/keerthan1304/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NaThReeK04/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NaThReeK04/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Topological Sort
 |  |
