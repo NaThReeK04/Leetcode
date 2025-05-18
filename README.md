@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keerthan1304/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keerthan1304/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/keerthan1304/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/NaThReeK04/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keerthan1304/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NaThReeK04/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/keerthan1304/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
