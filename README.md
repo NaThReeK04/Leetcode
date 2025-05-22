@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/keerthan1304/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NaThReeK04/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/NaThReeK04/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/NaThReeK04/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NaThReeK04/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/keerthan1304/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/NaThReeK04/Leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/NaThReeK04/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NaThReeK04/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/keerthan1304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3639-zero-array-transformation-i](https://github.com/NaThReeK04/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/NaThReeK04/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NaThReeK04/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/keerthan1304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3647-zero-array-transformation-iii](https://github.com/NaThReeK04/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/keerthan1304/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NaThReeK04/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3647-zero-array-transformation-iii](https://github.com/NaThReeK04/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
