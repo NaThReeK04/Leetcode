@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/keerthan1304/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NaThReeK04/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/NaThReeK04/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/keerthan1304/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NaThReeK04/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/NaThReeK04/Leetcode/tree/master/3321-type-of-triangle) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthan1304/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/keerthan1304/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/keerthan1304/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/NaThReeK04/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/keerthan1304/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/keerthan1304/Leetcode/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NaThReeK04/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
