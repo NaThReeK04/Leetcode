@@ -1,25 +1,22 @@
 class Solution {
 public:
-    static bool compare(pair<int,int>a,pair<int,int>b){
-       return a.first>b.first;
+    static bool compare(pair<int,int>&a,pair<int,int>&b){
+        return a.first>b.first;
     }
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        int n=nums.size();
-        unordered_map<int,int>mpp;
-        for(auto it:nums){
-            mpp[it]++;
-        }
         vector<pair<int,int>>ans;
-        for(auto it:mpp){
-            ans.push_back(make_pair(it.second,it.first));
+        vector<int>res;
+        unordered_map<int,int>mpp;
+        for(int i=0;i<nums.size();i++){
+            mpp[nums[i]]++;
+        }
+        for(auto c:mpp){
+            ans.push_back(make_pair(c.second,c.first));
         }
         sort(ans.begin(),ans.end(),compare);
-        vector<int>final;
         for(int i=0;i<k;i++){
-            final.push_back(ans[i].second);
+            res.push_back(ans[i].second);
         }
-        return final;
-
-
+        return res;
     }
 };
