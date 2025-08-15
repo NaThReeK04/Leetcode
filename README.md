@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/keerthan1304/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/keerthan1304/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/NaThReeK04/Leetcode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/keerthan1304/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/keerthan1304/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/keerthan1304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NaThReeK04/Leetcode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/NaThReeK04/Leetcode/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/keerthan1304/Leetcode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/NaThReeK04/Leetcode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/keerthan1304/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/keerthan1304/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
