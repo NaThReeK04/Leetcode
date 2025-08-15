@@ -1,38 +1,31 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        cout.tie(nullptr);
-        int n=s1.length();
-        int m=s2.length();
-        if (n > m) return false;
-        unordered_map<char,int>mpp;
-        for(int i=0;i<n;i++){
+        unordered_map<char, int> mpp;
+        for (int i = 0; i < s1.length(); i++) {
             mpp[s1[i]]++;
         }
-        unordered_map<char,int>temp;
-        temp=mpp;
-        for(int i=0;i<=m-n;i++){
-            for(int j=i;j<i+n;j++){
-                if(mpp.find(s2[j])!=mpp.end()){
+        int i = 0, j = 0;
+        while (i <= j && j < s2.length()) {
+            if (mpp.find(s2[j]) != mpp.end()) {
+                while (mpp.find(s2[j]) != mpp.end()) {
                     mpp[s2[j]]--;
+                    if (mpp[s2[j]] == 0) {
+                        mpp.erase(s2[j]);
+                    }
+                    j++;
                 }
-            }
-            bool we=false;
-            for(auto it:mpp){
-                if(it.second!=0){
-                    we=true;
-                    break;
+                if (mpp.size() == 0)
+                    return true;
+                while (mpp.find(s2[j]) == mpp.end() && i != j) {
+                    mpp[s2[i]]++;
+                    i++;
                 }
-            }
-            if(we==true){
-                mpp=temp;
-            }else{
-                return true;
+            } else {
+                i++;
+                j++;
             }
         }
         return false;
-
     }
 };
