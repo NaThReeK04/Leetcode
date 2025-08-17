@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NaThReeK04/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NaThReeK04/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthan1304/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/NaThReeK04/Leetcode/tree/master/0155-min-stack) |
 | [1002-maximum-width-ramp](https://github.com/keerthan1304/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/keerthan1304/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/keerthan1304/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/NaThReeK04/Leetcode/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/NaThReeK04/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NaThReeK04/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
