@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/NaThReeK04/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/NaThReeK04/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NaThReeK04/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/NaThReeK04/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NaThReeK04/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthan1304/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/NaThReeK04/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Quickselect
 |  |
 | ------- |
