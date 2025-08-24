@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NaThReeK04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NaThReeK04/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NaThReeK04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/keerthan1304/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/NaThReeK04/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/keerthan1304/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthan1304/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaThReeK04/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/keerthan1304/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/NaThReeK04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NaThReeK04/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/NaThReeK04/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/keerthan1304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/keerthan1304/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/keerthan1304/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/NaThReeK04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/NaThReeK04/Leetcode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaThReeK04/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NaThReeK04/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NaThReeK04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/NaThReeK04/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/keerthan1304/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
