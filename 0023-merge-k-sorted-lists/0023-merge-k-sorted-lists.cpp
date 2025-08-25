@@ -10,22 +10,30 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* dummy=new ListNode();
+    ListNode* sortList(ListNode* l1, ListNode* l2){
+        ListNode*dummy=new ListNode();
         ListNode*curr=dummy;
-        while(true){
-            int minList=-1;
-            for(int i=0;i<lists.size();i++){
-                if(!lists[i])continue;
-                if( minList==-1 || lists[minList]->val > lists[i]->val){
-                    minList=i;
-                }
+        while(l1!=nullptr&&l2!=nullptr){
+            if(l1->val<=l2->val){
+                curr->next=l1;
+                l1=l1->next;
+            }else{
+                curr->next=l2;
+                l2=l2->next;
             }
-            if(minList==-1)break;
-            curr->next=lists[minList];
-            lists[minList]=lists[minList]->next;
             curr=curr->next;
         }
+        if(l1!=nullptr){
+            curr->next=l1;
+        }
+        else curr->next=l2;
         return dummy->next;
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.empty())return nullptr;
+        for(int i=1;i<lists.size();i++){
+            lists[i]=sortList(lists[i-1],lists[i]);
+        }
+        return lists[lists.size()-1];
     }
 };
