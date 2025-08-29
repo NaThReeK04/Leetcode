@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/keerthan1304/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaThReeK04/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/keerthan1304/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1127-last-stone-weight](https://github.com/NaThReeK04/Leetcode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/keerthan1304/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/keerthan1304/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaThReeK04/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/keerthan1304/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/keerthan1304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/NaThReeK04/Leetcode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/keerthan1304/Leetcode/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/keerthan1304/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/keerthan1304/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
