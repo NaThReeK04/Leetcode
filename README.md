@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/keerthan1304/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/keerthan1304/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/keerthan1304/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaThReeK04/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/keerthan1304/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0883-car-fleet](https://github.com/NaThReeK04/Leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthan1304/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NaThReeK04/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/keerthan1304/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/keerthan1304/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaThReeK04/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NaThReeK04/Leetcode/tree/master/1500-count-largest-group) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/NaThReeK04/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/keerthan1304/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/keerthan1304/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/NaThReeK04/Leetcode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/keerthan1304/Leetcode/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/keerthan1304/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -732,12 +736,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaThReeK04/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NaThReeK04/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthan1304/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/NaThReeK04/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NaThReeK04/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthan1304/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String Matching
 |  |
@@ -824,4 +830,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NaThReeK04/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
