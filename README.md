@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NaThReeK04/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/keerthan1304/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/NaThReeK04/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/NaThReeK04/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/NaThReeK04/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/keerthan1304/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NaThReeK04/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NaThReeK04/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/keerthan1304/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/NaThReeK04/Leetcode/tree/master/0621-task-scheduler) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NaThReeK04/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NaThReeK04/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/keerthan1304/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/keerthan1304/Leetcode/tree/master/0063-unique-paths-ii) |
