@@ -733,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/NaThReeK04/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keerthan1304/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/NaThReeK04/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/keerthan1304/Leetcode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/keerthan1304/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
