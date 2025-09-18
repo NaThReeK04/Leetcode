@@ -1,26 +1,23 @@
 class Solution {
 public:
-    void helper(vector<vector<int>>&ans,vector<int>&comb,vector<int>&nums,vector<int>&freq){
-        if(comb.size()==nums.size()){
-            ans.push_back(comb);
+    void solve(vector<vector<int>>&ans,vector<int>&nums,int start){
+        if(start==nums.size()){
+            ans.push_back(nums);
             return;
         }
-        for(int i=0;i<nums.size();i++){
-            if(!freq[i]){
-                freq[i]=1;
-                comb.push_back(nums[i]);
-                helper(ans,comb,nums,freq);
-                freq[i]=0;
-                comb.pop_back();
+        unordered_map<int,int>mpp;
+        for(int i=start;i<nums.size();i++){
+            if(mpp.find(nums[i])==mpp.end()){
+                mpp[nums[i]]=1;
+                swap(nums[start],nums[i]);
+                solve(ans,nums,start+1);
+                swap(nums[start],nums[i]);
             }
         }
-        
     }
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>ans;
-        vector<int>comb;
-        vector<int>freq(nums.size(),0);
-        helper(ans,comb,nums,freq);
+        solve(ans,nums,0);
         return ans;
     }
 };
