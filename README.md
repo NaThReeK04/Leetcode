@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthan1304/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/keerthan1304/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/keerthan1304/Leetcode/tree/master/0100-same-tree) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NaThReeK04/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NaThReeK04/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keerthan1304/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthan1304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaThReeK04/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0090-subsets-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/NaThReeK04/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/NaThReeK04/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/NaThReeK04/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NaThReeK04/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/NaThReeK04/Leetcode/tree/master/0242-valid-anagram) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/keerthan1304/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NaThReeK04/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NaThReeK04/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/keerthan1304/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/keerthan1304/Leetcode/tree/master/0733-flood-fill) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NaThReeK04/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/NaThReeK04/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/keerthan1304/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NaThReeK04/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
