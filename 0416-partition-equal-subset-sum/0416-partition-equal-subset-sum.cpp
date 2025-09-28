@@ -1,33 +1,24 @@
 class Solution {
 public:
-    bool solve(int idx,int target,vector<int>&nums,vector<vector<int>>&dp){
-        if(target==0)return true;
-        if(idx==0)return nums[0]==target;
-        if(dp[idx][target]!=-1)return dp[idx][target];
-        bool notpick=solve(idx-1,target,nums,dp);
-        bool pick=false;
-        if(nums[idx]<=target){
-            pick=solve(idx-1,target-nums[idx],nums,dp);
+    bool helper(vector<int>&nums,vector<vector<int>>&dp,int n,int sum){
+        if(n==0){
+            if(sum==0)return true;
+            return false;
         }
-        return dp[idx][target]=notpick||pick;
-    }
-    bool canPartition(vector<int>& nums) {
-        int n=nums.size();
-        int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-        }
-        int temp=sum;
-        sum=ceil(sum/2);
-        vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
-        bool possible=solve(n-1,sum,nums,dp);
-        if(possible){
-            temp-=sum;
-            if(temp==sum){
-                return true;
-            }
+        if(dp[n][sum]!=-1)return dp[n][sum];
+        if(nums[n-1]<=sum){
+            return dp[n][sum]=helper(nums,dp,n-1,sum-nums[n-1])||helper(nums,dp,n-1,sum);
+        }else if(nums[n-1]>sum){
+            return dp[n][sum]=helper(nums,dp,n-1,sum);
         }
         return false;
-        
+    }
+    bool canPartition(vector<int>& nums) {
+        int sum=accumulate(nums.begin(),nums.end(),0);
+        if(sum%2!=0)return false;
+        int target=sum/2;
+        int n=nums.size();
+        vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
+        return helper(nums,dp,n,target);
     }
 };
