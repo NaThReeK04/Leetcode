@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/keerthan1304/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/keerthan1304/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NaThReeK04/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/NaThReeK04/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/NaThReeK04/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keerthan1304/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/keerthan1304/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/keerthan1304/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/keerthan1304/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/NaThReeK04/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keerthan1304/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/NaThReeK04/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NaThReeK04/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/NaThReeK04/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/keerthan1304/Leetcode/tree/master/0800-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/keerthan1304/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
