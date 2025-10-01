@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/NaThReeK04/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/keerthan1304/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/NaThReeK04/Leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/NaThReeK04/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/keerthan1304/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/NaThReeK04/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/NaThReeK04/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/NaThReeK04/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/keerthan1304/Leetcode/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/NaThReeK04/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keerthan1304/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/NaThReeK04/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/keerthan1304/Leetcode/tree/master/0967-minimum-falling-path-sum) |
