@@ -1,16 +1,13 @@
 class Solution {
 public:
-    int solve(int i,vector<int>&dp,int n){
-        if(i==n){
-            return 1;
-        }
-        if(i>n)return 0;
-        if(dp[i]!=-1)return dp[i];
-        return dp[i]=solve(i+1,dp,n)+solve(i+2,dp,n);
+    int helper(vector<int>&dp,int n){
+        if(n==0)return 1;
+        if(n<0)return 0;
+        if(dp[n]!=-1)return dp[n];
+        return dp[n]=helper(dp,n-1)+helper(dp,n-2);
     }
     int climbStairs(int n) {
         vector<int>dp(n+1,-1);
-        return solve(0,dp,n);
-        
+        return helper(dp,n);
     }
 };
