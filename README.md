@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/keerthan1304/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/keerthan1304/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/keerthan1304/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthan1304/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/keerthan1304/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/keerthan1304/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/NaThReeK04/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keerthan1304/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keerthan1304/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/keerthan1304/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/NaThReeK04/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
