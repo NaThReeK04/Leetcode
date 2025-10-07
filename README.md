@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NaThReeK04/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NaThReeK04/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NaThReeK04/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/keerthan1304/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/keerthan1304/Leetcode/tree/master/0567-permutation-in-string) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NaThReeK04/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/NaThReeK04/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/NaThReeK04/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/NaThReeK04/Leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/NaThReeK04/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/keerthan1304/Leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/NaThReeK04/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0392-is-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/keerthan1304/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NaThReeK04/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
