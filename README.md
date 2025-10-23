@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NaThReeK04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/NaThReeK04/Leetcode/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/NaThReeK04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaThReeK04/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NaThReeK04/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthan1304/Leetcode/tree/master/0283-move-zeroes) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NaThReeK04/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NaThReeK04/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/NaThReeK04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NaThReeK04/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/NaThReeK04/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/NaThReeK04/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
