@@ -12,13 +12,11 @@ public:
         for(int i=n-2;i>=0;i--){
             rightmax[i]=max(rightmax[i+1],height[i+1]);
         }
-        int water=0;
+        int count=0;
         for(int i=0;i<n;i++){
-            int trap=min(leftmax[i],rightmax[i])-height[i];
-            if(trap>0){
-                water+=trap;
-            }
+            int trap=(min(leftmax[i],rightmax[i])-height[i]);
+            if(trap>0)count+=trap;
         }
-        return water;
+        return count;
     }
 };
