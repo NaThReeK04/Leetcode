@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaThReeK04/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NaThReeK04/Leetcode/tree/master/1500-count-largest-group) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/NaThReeK04/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/NaThReeK04/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NaThReeK04/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/keerthan1304/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NaThReeK04/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NaThReeK04/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NaThReeK04/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/keerthan1304/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/NaThReeK04/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthan1304/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthan1304/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/NaThReeK04/Leetcode/tree/master/3336-water-bottles-ii) |
