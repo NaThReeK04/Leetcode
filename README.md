@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/keerthan1304/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NaThReeK04/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthan1304/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/NaThReeK04/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/keerthan1304/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NaThReeK04/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1923-sentence-similarity-iii](https://github.com/keerthan1304/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/NaThReeK04/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaThReeK04/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NaThReeK04/Leetcode/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/NaThReeK04/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/NaThReeK04/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/NaThReeK04/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NaThReeK04/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
