@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/keerthan1304/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/NaThReeK04/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/NaThReeK04/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NaThReeK04/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NaThReeK04/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthan1304/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/keerthan1304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/keerthan1304/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/keerthan1304/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/NaThReeK04/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NaThReeK04/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/keerthan1304/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/keerthan1304/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/keerthan1304/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/keerthan1304/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NaThReeK04/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/keerthan1304/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NaThReeK04/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NaThReeK04/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/keerthan1304/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/keerthan1304/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NaThReeK04/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NaThReeK04/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/keerthan1304/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NaThReeK04/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/NaThReeK04/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthan1304/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthan1304/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
